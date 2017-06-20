@@ -2,5 +2,4 @@
 
 Opencv dataset for training
 
-3070 positive samples
-6085 negative samples
+3070 positive samples, 6085 negative samples
